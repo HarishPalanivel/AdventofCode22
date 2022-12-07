@@ -1,3 +1,8 @@
+"""
+https://adventofcode.com/2022/day/6
+"""
+
+
 # Take the input stream. 
 with open("input.txt", "r") as f:
     stream = f.read()
